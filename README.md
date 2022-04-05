@@ -5,7 +5,7 @@
 ## 👨 Sobre mi:
 
 Soy muy pragmático, adquiero conocimientos rápidamente, me gusta relacionarme con un equipo de trabajo, y soy muy comunicador! Me apasaiona resolver problemas de todo tipo.
-Pase años siendo fotografo y videografo con la pandemia tome la decisión de dedicarme a la programacion, algo que me siempre me gusto desde chico!
+Pase años siendo fotografo y videografo, con la pandemia tome la decisión de dedicarme a la programacion, algo que siempre me gusto desde chico!
 
 ---------------------------------------------------
 
