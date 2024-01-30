@@ -4,7 +4,11 @@
 
 ## 👨 About Me:
 
-Hi! My name is Agustin Bruno, I’m a Front-End Developer, my favorite technologies are ReactJs with Typescript and NextJs. In addition to my experience as a developer, I have also worked as a designer and photographer so I frequently work around the user experience and interface through css.
+Hi there! I'm Agustin Bruno, a Front-End Developer. My go-to technologies are ReactJS with Typescript and NextJS. Beyond my coding experience, I've also worked as a designer and photographer, giving me a unique perspective on user experience and interface, particularly through CSS.
+
+Pragmatism is my style—I pick up new skills swiftly, enjoy collaborating with teams, and pride myself on effective communication!
+
+Problem-solving is my passion. Let's tackle challenges together! 🤗
 ---------------------------------------------------
 ## 🔗Meet me at: 
 <a href="https://www.linkedin.com/in/aguzbruno"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
