@@ -12,7 +12,6 @@ Problem-solving is my passion. Let's tackle challenges together! 🤗
 ---------------------------------------------------
 ## 🔗Meet me at: 
 <a href="https://www.linkedin.com/in/aguzbruno"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/aguzbruno"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v1.png"/></a>
 ------------------------------------------------------
  <h3>💻I invite you to see my repository!💻</h3>
  <h2>🤗 Thanks for reading me 🤗</h2>
